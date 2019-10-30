@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  extends: 'tmo-lint-settings',
+  extends: 'tmo-tslint-settings',
   rulesDirectory: [
     path.join(path.dirname(require.resolve('codelyzer')), './'),
   ],
