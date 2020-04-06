@@ -1,6 +1,6 @@
 {
   "name": "tmo-tslint-angular-settings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "default lint settings",
   "main": "src/jslint.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "Tim O'Dell",
   "license": "MIT",
   "peerDependencies": {
-    "codelyzer": "^5.0.0",
-    "tmo-tslint-settings": "1.0.0",
-    "tslint": "^5.11.0"
+    "codelyzer": "^5.2.2",
+    "tmo-tslint-settings": "1.0.1",
+    "tslint": "^6.1.1"
   },
   "keywords": [
     "tslint",
